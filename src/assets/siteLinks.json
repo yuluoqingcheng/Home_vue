@@ -7,17 +7,12 @@
   {
     "icon": "CommentsRegular",
     "name": "关于我",
-    "link": "https://hello.yuluoqc.xyz/about/"
+    "link": "https://project.yuluoqc.xyz/about/"
   },
   {
     "icon": "CompactDisc",
     "name": "音乐",
     "link": "https://music.yuluoqc.xyz/"
-  },
-  {
-    "icon": "Compass",
-    "name": "起始页",
-    "link": "https://nav.imsyy.top/"
   },
   {
     "icon": "Book",
@@ -37,12 +32,12 @@
   {
     "icon": "AirFreshener",
     "name": "Bate首页",
-    "link": "https://hello.yuluoqc.xyz/beta/"
+    "link": "https://project.yuluoqc.xyz/beta"
   },
   {
     "icon": "Archive",
     "name": "老板首页",
-    "link": "https://hello.yuluoqc.xyz/old/"
+    "link": "https://project.yuluoqc.xyz/old"
   },
   {
     "icon": "LaptopCode",
