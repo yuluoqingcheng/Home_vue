@@ -5,6 +5,16 @@
     "link": "https://yuluoqc.xyz/"
   },
   {
+    "icon": "LaptopCode",
+    "name": "站点监测",
+    "link": "https://status.yuluoqc.xyz/"
+  },
+  {
+    "icon": "CameraRetro",
+    "name": "驼驼和小付",
+    "link": "https://love.yuluoqc.xyz/"
+  },
+  {
     "icon": "CommentsRegular",
     "name": "关于我",
     "link": "https://project.yuluoqc.xyz/about/"
@@ -25,11 +35,6 @@
     "link": "https://soft.yuluoqc.xyz/"
   },
   {
-    "icon": "CameraRetro",
-    "name": "驼驼和小付",
-    "link": "https://love.yuluoqc.xyz/"
-  },
-  {
     "icon": "AirFreshener",
     "name": "Bate首页",
     "link": "https://project.yuluoqc.xyz/beta"
@@ -38,10 +43,5 @@
     "icon": "Archive",
     "name": "老板首页",
     "link": "https://project.yuluoqc.xyz/old"
-  },
-  {
-    "icon": "LaptopCode",
-    "name": "站点监测",
-    "link": "https://status.yuluoqc.xyz/"
   }
 ]
