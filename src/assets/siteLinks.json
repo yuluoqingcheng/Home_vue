@@ -2,17 +2,17 @@
   {
     "icon": "Blog",
     "name": "博客",
-    "link": "https://blog.imsyy.top/"
+    "link": "https://yuluoqc.xyz/"
   },
   {
-    "icon": "Cloud",
-    "name": "网盘",
-    "link": "https://pan.imsyy.top/"
+    "icon": "CommentsRegular",
+    "name": "关于我",
+    "link": "https://hello.yuluoqc.xyz/about/"
   },
   {
     "icon": "CompactDisc",
     "name": "音乐",
-    "link": "https://music.imsyy.top/"
+    "link": "https://music.yuluoqc.xyz/"
   },
   {
     "icon": "Compass",
@@ -21,13 +21,23 @@
   },
   {
     "icon": "Book",
-    "name": "网址集",
-    "link": "https://web.imsyy.top/"
+    "name": "雨滴互联",
+    "link": "https://ydhl.yuluoqc.xyz/"
   },
   {
     "icon": "Fire",
-    "name": "今日热榜",
-    "link": "https://hot.imsyy.top/"
+    "name": "北软论坛",
+    "link": "https://soft.yuluoqc.xyz/"
+  },
+  {
+    "icon": "CameraRetro",
+    "name": "驼驼和小付",
+    "link": "https://love.yuluoqc.xyz/"
+  },
+  {
+    "icon": "AirFreshener",
+    "name": "Bate首页",
+    "link": "https://hello.yuluoqc.xyz/beta/"
   },
   {
     "icon": "LaptopCode",
