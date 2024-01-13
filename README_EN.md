@@ -24,6 +24,9 @@ I have rebuilt a new version using Vue.js as the previous versions were outdated
 
 * [ ] Player cancels using Aplayer
 
+### Demo
+- [x] https://yuluoqc.xyz
+
 ### Deployment
 
 * **Installation** [node.js](https://nodejs.org/zh-cn/) **Environment**
