@@ -40,6 +40,11 @@
     "link": "https://hello.yuluoqc.xyz/beta/"
   },
   {
+    "icon": "Archive",
+    "name": "老板首页",
+    "link": "https://hello.yuluoqc.xyz/old/"
+  },
+  {
     "icon": "LaptopCode",
     "name": "站点监测",
     "link": "https://status.imsyy.top/"
